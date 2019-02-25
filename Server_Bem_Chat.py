@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# Chat Server
-# brady maxwell 177245IVCM
 
 from socket import AF_INET, socket, SOCK_STREAM
 from threading import Thread
