@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # chat client
-# brady maxwell 177245IVCM
+
 
 
 from socket import AF_INET, socket, SOCK_STREAM
